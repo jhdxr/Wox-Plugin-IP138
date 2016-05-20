@@ -1,6 +1,6 @@
 {
     "ID": "B31DF617A5FC4C6FBB81B61B97073FC1",
-    "ActionKeywords": ["ip"],
+    "ActionKeyword": "ip",
     "Name": "IP138",
     "Description": "find the location of ip via ip138",
     "Author": "jhdxr",
